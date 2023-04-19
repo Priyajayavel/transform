@@ -1,0 +1,12 @@
+
+.parent{
+	margin-top:5%;
+	margin-left:10%
+	position:relative;
+	overflow:hidden;
+	display:inline-block;
+
+}
+.child:hover{
+	transform:scale(1.1);
+}
